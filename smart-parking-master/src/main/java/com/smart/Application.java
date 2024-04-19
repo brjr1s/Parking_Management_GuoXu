@@ -1,5 +1,11 @@
 package com.smart;
-
+/**
+ *-辽宁工程技术大学-
+ *-基础软件与开源系统-
+ *-刘佳旭-
+ *-软件研472321730-
+ *-郭旭-
+ */
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
