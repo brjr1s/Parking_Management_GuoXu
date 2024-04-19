@@ -1,0 +1,19 @@
+2022-04-10 15:59:17.366 INFO  com.smart.Application Line:55  - Starting Application on xinxin with PID 11424 (E:\管理系统\104_小稼停车场管理系统\smart-parking-master\target\classes started by DONG in E:\管理系统\104_小稼停车场管理系统)
+2022-04-10 15:59:17.375 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-04-10 15:59:23.147 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-04-10 15:59:23.197 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-04-10 15:59:23.433 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-04-10 15:59:30.716 INFO  com.smart.Application Line:61  - Started Application in 14.777 seconds (JVM running for 20.252)
+2022-04-10 15:59:30.722 INFO  com.smart.Application Line:29  - 小稼停车场管理系统
+2022-04-10 15:59:48.615 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-10 15:59:49.114 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-04-10 16:07:12.614 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2022-04-10 16:34:44.186 INFO  com.smart.Application Line:55  - Starting Application on xinxin with PID 8496 (E:\管理系统\104_小稼停车场管理系统\smart-parking-master\target\classes started by DONG in E:\管理系统\104_小稼停车场管理系统)
+2022-04-10 16:34:44.207 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-04-10 16:34:48.126 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-04-10 16:34:48.127 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-04-10 16:34:48.270 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-04-10 16:34:53.766 INFO  com.smart.Application Line:61  - Started Application in 11.088 seconds (JVM running for 13.998)
+2022-04-10 16:34:53.770 INFO  com.smart.Application Line:29  - 小稼停车场管理系统
+2022-04-10 16:34:53.957 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-10 16:34:53.999 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...

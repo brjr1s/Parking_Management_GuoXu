@@ -1,0 +1,10 @@
+2022-04-24 21:55:06.517 INFO  com.smart.Application Line:55  - Starting Application on xinxin with PID 10792 (E:\管理系统\104_小稼停车场管理系统\smart-parking-master\target\classes started by DONG in E:\管理系统\104_小稼停车场管理系统)
+2022-04-24 21:55:06.543 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-04-24 21:55:14.805 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-04-24 21:55:14.832 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-04-24 21:55:15.023 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-04-24 21:55:24.432 INFO  com.smart.Application Line:61  - Started Application in 21.003 seconds (JVM running for 25.885)
+2022-04-24 21:55:24.436 INFO  com.smart.Application Line:29  - 小稼停车场管理系统
+2022-04-24 21:55:26.445 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-24 21:55:26.530 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-04-24 22:01:07.254 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK

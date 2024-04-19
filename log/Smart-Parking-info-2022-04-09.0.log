@@ -1,0 +1,12 @@
+2022-04-09 16:38:49.651 INFO  com.smart.Application Line:55  - Starting Application on xinxin with PID 13504 (E:\管理系统\104_小稼停车场管理系统\smart-parking-master\target\classes started by DONG in E:\管理系统\104_小稼停车场管理系统)
+2022-04-09 16:38:49.713 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-04-09 16:38:55.617 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-04-09 16:38:55.618 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-04-09 16:38:55.810 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-04-09 16:39:01.561 INFO  org.apache.catalina.core.StandardService Line:173 - Stopping service [Tomcat]
+2022-04-09 22:30:58.204 INFO  com.smart.Application Line:55  - Starting Application on xinxin with PID 11452 (E:\管理系统\104_小稼停车场管理系统\smart-parking-master\target\classes started by DONG in E:\管理系统\104_小稼停车场管理系统)
+2022-04-09 22:30:58.226 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-04-09 22:31:03.826 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-04-09 22:31:03.840 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-04-09 22:31:03.993 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-04-09 22:31:10.007 INFO  org.apache.catalina.core.StandardService Line:173 - Stopping service [Tomcat]

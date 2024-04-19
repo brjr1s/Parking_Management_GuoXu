@@ -1,0 +1,12 @@
+2022-01-04 20:25:59.290 INFO  com.smart.Application Line:55  - Starting Application on xinxin with PID 11308 (C:\Users\小鑫鑫\Downloads\104_小稼停车场管理系统\smart-parking-master\target\classes started by DONG in C:\Users\小鑫鑫\Downloads\104_小稼停车场管理系统)
+2022-01-04 20:25:59.296 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-01-04 20:26:03.661 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-01-04 20:26:03.668 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-01-04 20:26:03.856 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-01-04 20:26:09.288 INFO  com.smart.Application Line:61  - Started Application in 11.57 seconds (JVM running for 17.364)
+2022-01-04 20:26:09.292 INFO  com.smart.Application Line:29  - 小稼停车场管理系统
+2022-01-04 20:27:08.764 INFO  org.apache.tomcat.util.http.parser.Cookie Line:173 - A cookie header was received [1640269051; _ga=GA1.1.278432182.1640359445; UM_distinctid=17defaba4034bc-0e767425738e31-333376b-15f900-17defaba404764; CNZZDATA1276633811=1181526348-1640403198-%7C1640403198; Hm_lvt_5d38368afc73cc09ae9951f1d236edfc=1640403546; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2217defabba375a2-0870a17ce468c5-333376b-1440000-17defabba38796%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22url%E7%9A%84domain%E8%A7%A3%E6%9E%90%E5%A4%B1%E8%B4%A5%22%2C%22%24latest_search_keyword%22%3A%22url%E7%9A%84domain%E8%A7%A3%E6%9E%90%E5%A4%B1%E8%B4%A5%22%2C%22%24latest_referrer%22%3A%22url%E7%9A%84domain%E8%A7%A3%E6%9E%90%E5%A4%B1%E8%B4%A5%22%7D%2C%22%24device_id%22%3A%2217defabba375a2-0870a17ce468c5-333376b-1440000-17defabba38796%22%7D; loginToken=1640502266112675da1328fc74cd58de7eadd7ae53768] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-01-04 20:27:08.777 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 20:27:08.812 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-01-04 20:29:46.395 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
